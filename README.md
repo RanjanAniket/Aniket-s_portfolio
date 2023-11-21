@@ -30,6 +30,36 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                <div class="project" style="background-image: url(images/img-2.jpg);">
+                    <div class="desc">
+                        <div class="con">
+                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/Customer%20Churn.ipynb" target="_blank" rel="noreferrer">Customer Churn Analysis</a></h3>
+                            <span>Data Science Project</span>
+                            <p class="icon">
+                                <span><a href="#"><i class="icon-share3"></i></a></span>
+                                <span><a href="#"><i class="icon-eye"></i> 90</a></span>
+                                <span><a href="#"><i class="icon-heart"></i> 41</a></span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                <div class="project" style="background-image: url(images/img-3.jpg);">
+                    <div class="desc">
+                        <div class="con">
+                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/NAME%20ANALYSIS.ipynb" target="_blank" rel="noreferrer">Name Analysis</a></h3>
+                            <span>Data Science Project</span>
+                            <p class="icon">
+                                <span><a href="#"><i class="icon-share3"></i></a></span>
+                                <span><a href="#"><i class="icon-eye"></i> 100</a></span>
+                                <span><a href="#"><i class="icon-heart"></i> 49</a></span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- Add more projects as needed -->
         </div>
     </div>
