@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, Aniket Ranjan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="250" src="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/aniket.webp">
+<img align="right" alt="coding" width="250" src="https://raw.githubusercontent.com/RanjanAniket/Aniket-s_portfolio/main/aniket.webp">
 
 - 🌱 I’m currently learning *Machine learning, Power Bi, Visualization, Data Analysis*
 
-- 💬 Ask me about *Data Analysis ,Visualization ,statistics,Sql,Java Script*
+- 💬 Ask me about *Data Analysis, Visualization, Statistics, Sql, Java Script*
 
 - 📫 How to reach me *aniketranjan.ra@gmail.com*
 
