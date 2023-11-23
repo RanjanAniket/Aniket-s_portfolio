@@ -1,6 +1,15 @@
-<h3 align="center">A Data Science Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi 👋, Aniket Ranjan</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
+<img align="right" alt="coding" width="250" src="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/aniket.webp">
+
+- 🌱 I’m currently learning *Machine learning, Power Bi, Visualization, Data Analysis*
+
+- 💬 Ask me about *Data Analysis ,Visualization ,statistics,Sql,Java Script*
+
+- 📫 How to reach me *aniketranjan.ra@gmail.com*
+
 <p align="left">
 </p>
 
@@ -20,11 +29,12 @@
                     <div class="desc">
                         <div class="con">
                             <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/Netflix%20Recommender%20%20System%20with%20SVD%20.ipynb" target="_blank" rel="noreferrer">Netflix Recommender System with SVD</a></h3>
-                            <span>Data Science Project</span>
+                            <span>
+"Netflix Recommender System: Engineered with SVD, our recommender system employs advanced matrix factorization to understand user preferences and movie characteristics. This dynamic model continually refines its understanding, offering personalized content recommendations for an enhanced streaming experience."</span>
                             <p class="icon">
-                                <span><a href="#"><i class="icon-share3"></i></a></span>
-                                <span><a href="#"><i class="icon-eye"></i> 100</a></span>
-                                <span><a href="#"><i class="icon-heart"></i> 49</a></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
                             </p>
                         </div>
                     </div>
@@ -35,11 +45,11 @@
                     <div class="desc">
                         <div class="con">
                             <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/Customer%20Churn.ipynb" target="_blank" rel="noreferrer">Customer Churn Analysis</a></h3>
-                            <span>Data Science Project</span>
+                            <span>Explore our Customer Churn Analysis project, designed to uncover insights and strategies for reducing customer attrition. Leveraging Jupyter Notebook, the project delves into exploratory data analysis, feature engineering, and the application of machine learning techniques.</span>
                             <p class="icon">
-                                <span><a href="#"><i class="icon-share3"></i></a></span>
-                                <span><a href="#"><i class="icon-eye"></i> 90</a></span>
-                                <span><a href="#"><i class="icon-heart"></i> 41</a></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
                             </p>
                         </div>
                     </div>
@@ -50,11 +60,11 @@
                     <div class="desc">
                         <div class="con">
                             <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/NAME%20ANALYSIS.ipynb" target="_blank" rel="noreferrer">Name Analysis</a></h3>
-                            <span>Data Science Project</span>
+                            <span>Dive into our Name Analysis project, a comprehensive exploration of patterns, demographics, and cultural influences associated with personal names. This project, available on GitHub, utilizes data-driven methodologies and visualization techniques to uncover insights into the fascinating world of names.</span>
                             <p class="icon">
-                                <span><a href="#"><i class="icon-share3"></i></a></span>
-                                <span><a href="#"><i class="icon-eye"></i> 100</a></span>
-                                <span><a href="#"><i class="icon-heart"></i> 35</a></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
                             </p>
                         </div>
                     </div>
