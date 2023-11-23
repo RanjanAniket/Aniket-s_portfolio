@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, Aniket Ranjan</h1>
+<h1 align="center">Hi 👋, Aniket Ranjan </h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="250" src="https://raw.githubusercontent.com/RanjanAniket/Aniket-s_portfolio/main/aniket.webp">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/uTBC-D1fPgAAAAAd/heykaryn-data-cats.gif">
 
 - 🌱 I’m currently learning *Machine learning, Power Bi, Visualization, Data Analysis*
 
@@ -19,7 +19,7 @@
     <div class="colorlib-narrow-content">
         <div class="row">
             <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span class="heading-meta">My Work</span>
+                <span </span>
                 <h2 class="colorlib-heading animate-box">Recent Work</h2>
             </div>
         </div>
