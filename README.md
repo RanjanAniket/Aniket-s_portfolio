@@ -19,18 +19,34 @@
     <div class="colorlib-narrow-content">
         <div class="row">
             <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span ></span>
+                <span></span>
                 <h2 class="colorlib-heading animate-box">Recent Work</h2>
             </div>
         </div>
         <div class="row">
+            <!-- Add the WALMART SALES ANALYSIS project as the first one -->
+            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                <div class="project" style="background-image: url(images/img-4.jpg);">
+                    <div class="desc">
+                        <div class="con">
+                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/WALMART%20SALES%20ANALYSIS.ipynb" target="_blank" rel="noreferrer">WALMART SALES ANALYSIS</a></h3>
+                            <span>Explore our Walmart Sales Analysis project, a detailed examination of sales trends, patterns, and factors influencing performance. This project, available on GitHub, utilizes advanced data analysis techniques to provide valuable insights for strategic decision-making within the retail domain.</span>
+                            <p class="icon">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Add the existing projects after the new one -->
             <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
                 <div class="project" style="background-image: url(images/img-1.jpg);">
                     <div class="desc">
                         <div class="con">
                             <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/Netflix%20Recommender%20%20System%20with%20SVD%20.ipynb" target="_blank" rel="noreferrer">Netflix Recommender System with SVD</a></h3>
-                            <span>
-"Netflix Recommender System: Engineered with SVD, our recommender system employs advanced matrix factorization to understand user preferences and movie characteristics. This dynamic model continually refines its understanding, offering personalized content recommendations for an enhanced streaming experience."</span>
+                            <span>"Netflix Recommender System: Engineered with SVD, our recommender system employs advanced matrix factorization to understand user preferences and movie characteristics. This dynamic model continually refines its understanding, offering personalized content recommendations for an enhanced streaming experience."</span>
                             <p class="icon">
                                 <span></span>
                                 <span></span>
