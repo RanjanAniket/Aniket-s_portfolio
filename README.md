@@ -24,8 +24,8 @@
             </div>
         </div>
         <div class="row">
-            <!-- Add the WALMART SALES ANALYSIS project as the first one -->
-            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+            <!-- First project (WALMART SALES ANALYSIS) -->
+            <div class="col-md-4 col-md-offset-0 animate-box" data-animate-effect="fadeInLeft">
                 <div class="project" style="background-image: url(images/img-4.jpg);">
                     <div class="desc">
                         <div class="con">
@@ -40,8 +40,24 @@
                     </div>
                 </div>
             </div>
-            <!-- Add the existing projects after the new one -->
-            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+            <!-- Second project (OLA CAPSTONE PROJECT) with offset -->
+            <div class="col-md-4 col-md-offset-4 animate-box" data-animate-effect="fadeInLeft">
+                <div class="project" style="background-image: url(images/ola_project_image.jpg);">
+                    <div class="desc">
+                        <div class="con">
+                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/Capstone%20Project%20OLA.sql" target="_blank" rel="noreferrer">OLA DATA SQL Analysis</a></h3>
+                            <span>Explore Project, a comprehensive SQL analysis focusing on OLA ride-hailing data. This project delves into various aspects such as trip analytics, driver behavior, and customer interactions, providing valuable insights for optimizing OLA's operational strategies.</span>
+                            <p class="icon">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Third project (Netflix Recommender System) -->
+            <div class="col-md-4 col-md-offset-0 animate-box" data-animate-effect="fadeInLeft">
                 <div class="project" style="background-image: url(images/img-1.jpg);">
                     <div class="desc">
                         <div class="con">
@@ -56,7 +72,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+            <!-- Fourth project (Customer Churn Analysis) with offset -->
+            <div class="col-md-4 col-md-offset-4 animate-box" data-animate-effect="fadeInLeft">
                 <div class="project" style="background-image: url(images/img-2.jpg);">
                     <div class="desc">
                         <div class="con">
@@ -71,7 +88,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+            <!-- Fifth project (Name Analysis) -->
+            <div class="col-md-4 col-md-offset-0 animate-box" data-animate-effect="fadeInLeft">
                 <div class="project" style="background-image: url(images/img-3.jpg);">
                     <div class="desc">
                         <div class="con">
